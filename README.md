@@ -11,4 +11,4 @@ Feel free to make commit changes and give suggestions on what could be improved.
 
 For any kind of questions feel free to contact me via email in my profile description.
 
-<i class="fas fa-heart"></i>
+❤️❤️❤️
