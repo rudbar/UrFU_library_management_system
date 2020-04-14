@@ -1,6 +1,6 @@
 # UrFU_library_management_system
 
-Library management system for the <a href="https://urfu.ru/en/"> Ural Federal University </a> which allows you to:
+Library management system for the <a href="https://urfu.ru/en/" target="_blank"> Ural Federal University </a> which allows you to:
 <ul>
   <li> Sign up for an account </li>
   <li> Choose your own subscription plan</li>
